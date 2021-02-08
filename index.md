@@ -19,4 +19,4 @@ Ghent University, \
 
 ## Support or Contact
 
-Questions? Please send us an email on [abdeljaouad.aberkane@ugent.be](abdeljaouad.aberkane@ugent.be)
+Questions? Please send us an email at [abdeljaouad.aberkane@ugent.be](abdeljaouad.aberkane@ugent.be)
