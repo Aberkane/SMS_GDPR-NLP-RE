@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Exploring Automated GDPR-Compliance in Requirements Engineering: A Systematic Mapping Study
 
-You can use the [editor on GitHub](https://github.com/Aberkane/Exploring-Automated-GDPR-Compliance-in-Requirements-Engineering-A-Systematic-Mapping-Study/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Abstract
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Abstract]
 
-### Markdown
+## Authors
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Abdel-Jaouad Aberkane, Geert Poels, and Seppe Vandenbroucke\
+_Business Informatics Research Group, \
+Faculty of Economics and Business Administration, \
+Ghent University, \
+9000 Ghent, Belgium_
 
-```markdown
-Syntax highlighted code block
+## Data
 
-# Header 1
-## Header 2
-### Header 3
+**Mapping** (in MS Excel): [SMS-GDPR-RE-NLP](url)\
+**List of references** (in BibTex-format): [REF.BIB](url)
 
-- Bulleted
-- List
+## Support or Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aberkane/Exploring-Automated-GDPR-Compliance-in-Requirements-Engineering-A-Systematic-Mapping-Study/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Questions? Please send us an email on [abdeljaouad.aberkane@ugent.be](abdeljaouad.aberkane@ugent.be)
