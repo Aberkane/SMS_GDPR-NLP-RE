@@ -2,7 +2,7 @@
 
 ## Abstract
 
-[Abstract]
+The General Data Protection Regulation (GDPR) is recently adopted and impacts information processing organizations. We argue that the GDPR concept of Data Protection by Design should be addressed from the offset of software development: requirements engineering (RE). To automate this process, we propose using natural language processing (NLP). This paper explores the landscape of GPDR, natural language processing, and requirements engineering by conducting a systematic mapping study. We identified 448 studies in total. The majority, 419 studies, were related to natural language processing and requirements engineering. 9 Studies were related to the GDPR and natural language processing, and 20 studies were related to GDPR and requirements engineering. We observed a tendency among requirements engineering researchers to focus mainly on the requirements engineering activities of domain understanding \& elicitation. Moreover, the most common research type---markedly---was solution proposal. 
 
 ## Authors
 
