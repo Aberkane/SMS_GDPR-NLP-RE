@@ -14,8 +14,8 @@ Ghent University, \
 
 ## Data
 
-**Mapping** (in MS Excel): [SMS-GDPR-RE-NLP](url)\
-**List of references** (in BibTex-format): [REF.BIB](url)
+**Mapping** (in MS Excel): [SMS-GDPR-RE-NLP](https://github.com/Aberkane/SMS_GDPR-NLP-RE/blob/main/SMS_GDPR-NLP-RE.xlsx)\
+**List of references (incomplete)** (in BibTex-format): [REF.BIB](https://github.com/Aberkane/SMS_GDPR-NLP-RE/blob/main/SMS_GDPR-NLP-RE.bib)
 
 ## Support or Contact
 
