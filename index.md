@@ -6,7 +6,7 @@ The General Data Protection Regulation (GDPR) is recently adopted and impacts in
 
 ## Authors
 
-Abdel-Jaouad Aberkane, Geert Poels, and Seppe Vandenbroucke\
+Abdel-Jaouad Aberkane, Geert Poels, and Seppe Van den Broucke\
 _Business Informatics Research Group, \
 Faculty of Economics and Business Administration, \
 Ghent University, \
