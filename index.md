@@ -2,7 +2,7 @@
 
 ## Abstract
 
-The General Data Protection Regulation (GDPR) is recently adopted and has profound impact on information processing organizations as they must comply with this Regulation. In this research, we consider GDPR-compliance as a high-level goal in software development that should be addressed at the offset of software development: requirements engineering (RE). To automate this process, we propose using natural language processing (NLP). To explore the existing literature on the intersection of GDPR, requirements engineering, and natural language processing, we conducted a systematic mapping study.  As a result, we identified 448 relevant studies of which the majority (419) was related to natural language processing and requirements engineering. Research on the intersection of GDPR and NLP yielded nine studies, while 20 studies were related to GDPR and RE. 
+The General Data Protection Regulation (GDPR) is recently adopted and has a profound impact on information processing organizations as they must comply with this Regulation. In this research, we consider GDPR-compliance as a high-level goal in software development that should be addressed at the offset of software development: requirements engineering (RE). To automate this process, we propose using natural language processing (NLP). We conducted a systematic mapping study to explore the existing literature on the intersection of GDPR, requirements engineering, and natural language processing.  As a result, we identified 448 relevant studies, of which the majority (419) were related to natural language processing and requirements engineering. Research on the intersection of GDPR and NLP yielded nine studies, while 20 studies were related to GDPR and RE. 
 
 ## Authors
 
