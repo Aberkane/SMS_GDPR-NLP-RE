@@ -6,7 +6,7 @@ The General Data Protection Regulation (GDPR), adopted in 2018, profoundly impac
 
 ## Authors
 
-Abdel-Jaouad Aberkane, Geert Poels, and Seppe Van den Broucke\
+Abdel-Jaouad Aberkane, Geert Poels, and Seppe van den Broucke\
 _Business Informatics Research Group, \
 Faculty of Economics and Business Administration, \
 Ghent University, \
