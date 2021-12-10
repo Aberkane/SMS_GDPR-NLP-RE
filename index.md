@@ -13,7 +13,7 @@ Ghent University, \
 9000 Ghent, Belgium_
 
 ## Full Journal Article
-https://ieeexplore.ieee.org/abstract/document/9420457/
+[https://ieeexplore.ieee.org/abstract/document/9420457/](https://ieeexplore.ieee.org/abstract/document/9420457/)
 
 ## Data
 
