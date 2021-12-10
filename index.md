@@ -1,4 +1,4 @@
-# Exploring Automated GDPR-Compliance in Requirements Engineering: A Systematic Mapping Study [Link](https://ieeexplore.ieee.org/abstract/document/9420457/)
+# Exploring Automated GDPR-Compliance in Requirements Engineering: A Systematic Mapping Study
 
 ## Abstract
 
@@ -11,6 +11,9 @@ _Business Informatics Research Group, \
 Faculty of Economics and Business Administration, \
 Ghent University, \
 9000 Ghent, Belgium_
+
+## Full Journal Article
+https://ieeexplore.ieee.org/abstract/document/9420457/
 
 ## Data
 
