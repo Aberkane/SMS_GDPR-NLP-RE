@@ -1,4 +1,4 @@
-# Exploring Automated GDPR-Compliance in Requirements Engineering: A Systematic Mapping Study
+# Exploring Automated GDPR-Compliance in Requirements Engineering: A Systematic Mapping Study [Link](https://ieeexplore.ieee.org/abstract/document/9420457/)
 
 ## Abstract
 
