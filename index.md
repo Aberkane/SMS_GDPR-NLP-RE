@@ -20,6 +20,6 @@ Ghent University, \
 **Mapping** (in MS Excel): [SMS-GDPR-RE-NLP](https://github.com/Aberkane/SMS_GDPR-NLP-RE/blob/main/SMS_GDPR-NLP-RE.xlsx)\
 **List of references** (in BibTex-format): [REF.BIB](https://github.com/Aberkane/SMS_GDPR-NLP-RE/blob/main/SMS_GDPR-NLP-RE.bib)
 
-## Support or Contact
+## Contact
 
 Questions? Please send us an email at [abdeljaouad.aberkane@ugent.be](abdeljaouad.aberkane@ugent.be).
